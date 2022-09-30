@@ -43,6 +43,6 @@ h3 {
   
 }
 #products {
-  text-decoration:none; 
+  list-style: none;
 }
 
