@@ -57,9 +57,13 @@ h5 {
 }
 #carousel {
   text-align: center;
-  margin: 12px;
+  margin: 20px;
 }
 #mypicture {
   text-align: center;
+}
+#anouncetext {
+  margin: 40px;
+  color: blue;
 }
 
