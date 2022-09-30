@@ -38,3 +38,6 @@ h3 {
 .jest-lite-report__errors {
   display: none;
 }
+#shoppingcart {
+  text-align:center;
+}
