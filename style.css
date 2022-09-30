@@ -40,8 +40,9 @@ h3 {
 }
 #shoppingcart {
   text-align:center;
+  
 }
-#products, #store {
-  text-decoration:none;
+#products-li{
+  text-decoration:none; 
 }
 
