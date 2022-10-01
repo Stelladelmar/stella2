@@ -72,6 +72,9 @@ h5 {
   text-decoration: underline;
   text: center;
 }
+#linkedinlink {text-align:center;
+  font-size: 200px;
+}
 #commentbox {
   margin-top:10%;
   text-align: justify;
@@ -164,7 +167,5 @@ h5 {
     .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
-  #linkedinlink {text-align:center;
-  font-size: 200px;
-  }
+
 }
