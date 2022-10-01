@@ -164,4 +164,7 @@ h5 {
     .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
+  #linkedinlink {text-align:center;
+  font-size: 30px;
+  }
 }
